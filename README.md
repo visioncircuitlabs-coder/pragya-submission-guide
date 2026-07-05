@@ -1,5 +1,5 @@
-# Pragya Razorpay Submission Guide
+# Pragya - Razorpay Activation Details
 
-Step-by-step guide for resubmitting the Pragya Razorpay application, with live page screenshots.
+Merchant website details, payment flow, and page evidence for the Razorpay activation of pragyacareer.com. Prepared for the submitting team.
 
-Download: [PDF](Pragya-Razorpay-Submission-Guide.pdf) | [Word](Pragya-Razorpay-Submission-Guide.docx)
+Download: [Word (.docx)](Pragya-Razorpay-Activation-Details.docx) | [PDF](Pragya-Razorpay-Activation-Details.pdf)
